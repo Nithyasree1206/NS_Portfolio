@@ -1,0 +1,14 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="32" fill="url(#paint0_linear)"/>
+  <path d="M150 220C180 190 220 170 280 160C340 150 390 169 420 200" stroke="white" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="380" cy="158" r="18" fill="white"/>
+  <rect x="250" y="225" width="120" height="26" rx="13" fill="rgba(255,255,255,0.25)"/>
+  <circle cx="130" cy="120" r="40" fill="rgba(255,255,255,0.18)"/>
+  <text x="50%" y="80%" text-anchor="middle" fill="white" font-size="26" font-family="Inter, sans-serif" font-weight="700">Gesture Cricket</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="600" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8A5B"/>
+      <stop offset="1" stop-color="#F25A7F"/>
+    </linearGradient>
+  </defs>
+</svg>

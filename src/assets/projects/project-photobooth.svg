@@ -1,0 +1,15 @@
+<svg width="600" height="400" viewBox="0 0 600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="400" rx="32" fill="url(#paint0_linear)"/>
+  <rect x="110" y="110" width="380" height="220" rx="28" fill="rgba(255,255,255,0.18)"/>
+  <circle cx="280" cy="200" r="70" fill="white" opacity="0.85"/>
+  <path d="M220 180C250 150 310 150 340 180" stroke="#255CFF" stroke-width="16" stroke-linecap="round"/>
+  <path d="M230 250C250 270 310 270 330 250" stroke="#255CFF" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="320" cy="170" r="10" fill="#FFB549"/>
+  <text x="50%" y="80%" text-anchor="middle" fill="white" font-size="26" font-family="Inter, sans-serif" font-weight="700">Photobooth</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="600" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF6AB8"/>
+      <stop offset="1" stop-color="#FF487A"/>
+    </linearGradient>
+  </defs>
+</svg>
