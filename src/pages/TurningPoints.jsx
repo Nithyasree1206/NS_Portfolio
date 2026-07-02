@@ -25,22 +25,22 @@ const TurningPoints = () => {
 
   const milestones = [
     {
-      imageSrc: "/turning-points/image1.png",
+      imageSrc: "./turning-points/image1.png",
       title: "Memorable Moments",
       subtitle: "Milestones that shaped my coding journey"
     },
     {
-      imageSrc: "/turning-points/image2.png",
+      imageSrc: "./turning-points/image2.png",
       title: "Learning & Growing",
       subtitle: "Giving back to the community"
     },
     {
-      imageSrc: "/turning-points/image4.png",
+      imageSrc: "./turning-points/image4.png",
       title: "Winning Moments",
       subtitle: "Hard Work. Teamwork. Triumph."
     },
     {
-      imageSrc: "/turning-points/image3.png",
+      imageSrc: "./turning-points/image3.png",
       title: "Volunteer Work",
       subtitle: "Beach Cleaning & environmental care"
     }

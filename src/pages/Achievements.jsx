@@ -11,77 +11,77 @@ const Achievements = () => {
       title: "🏆 Winner – ASTRANOVA'26 UXPLORE",
       org: "St. Joseph College of Engineering, Sriperumbudur",
       desc: "Secured winner position in a competitive UI/UX innovation event.",
-      certImage: "/certificates/joseph.png"
+      certImage: "./certificates/joseph.png"
     },
     {
       id: 2,
       title: "🎓 Infosys Certification",
       org: "Infosys",
       desc: "Successfully completed professional certification program.",
-      certImage: "/certificates/ifosys.png"
+      certImage: "./certificates/ifosys.png"
     },
     {
       id: 3,
       title: "☁️ AWS Cloud Badges",
       org: "Amazon Web Services",
       desc: "Earned badges demonstrating cloud computing knowledge.",
-      certImage: "/certificates/AWS.png"
+      certImage: "./certificates/AWS.png"
     },
     {
       id: 4,
       title: "🤖 Be10x AI Tools Workshop",
       org: "Be10x",
       desc: "Completed training on modern AI tools and productivity techniques.",
-      certImage: "/certificates/Be10x.png"
+      certImage: "./certificates/Be10x.png"
     },
     {
       id: 5,
       title: "📊 IBM Datathon Participation",
       org: "IBM",
       desc: "Participated in a data-driven hackathon focused on analytics.",
-      certImage: "/certificates/IBM.png"
+      certImage: "./certificates/IBM.png"
     },
     {
       id: 6,
       title: "🤖 Spidy Bot Hackathon",
       org: "Sairam Engineering College",
       desc: "Worked on innovative robotics/tech solutions in a hackathon.",
-      certImage: "/certificates/spideybot.png"
+      certImage: "./certificates/spideybot.png"
     },
     {
       id: 8,
       title: "📚 Coursera Certification – DBMS",
       org: "Coursera",
       desc: "Completed course on Database Management Systems.",
-      certImage: "/certificates/DBMS.png"
+      certImage: "./certificates/DBMS.png"
     },
     {
       id: 9,
       title: "💼 Approtech Internship Certification",
       org: "Approtech",
       desc: "Successfully completed internship program.",
-      certImage: "/certificates/Appro.png"
+      certImage: "./certificates/Appro.png"
     },
     {
       id: 10,
       title: "🎓 ErrorMakesClever (EMC) Certificate",
       org: "ErrorMakesClever",
       desc: "Successfully completed certification.",
-      certImage: "/certificates/emc.png"
+      certImage: "./certificates/emc.png"
     },
     {
       id: 11,
       title: "🌟 Spark Certificate of Internship",
       org: "Spark",
       desc: "Completed internship program and received certification.",
-      certImage: "/certificates/spark.png"
+      certImage: "./certificates/spark.png"
     },
     {
       id: 12,
       title: "🏅 Render Blind UXPLORE Certificate",
       org: "Sairam Institutions",
       desc: "Participated and excelled in the Render Blind event during UXPLORE.",
-      certImage: "/certificates/RenderBlind.png"
+      certImage: "./certificates/RenderBlind.png"
     }
   ];
 
