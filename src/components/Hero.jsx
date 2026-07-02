@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import profilePic from '../assets/professional-pic.jpg';
+import profilePic from '../assets/professional-pic.png';
 
 const Hero = () => {
   const roles = [
@@ -118,8 +118,8 @@ const Hero = () => {
         </div>
 
         <h1 className="hero-title">
-          Creative<br/>
-          <span className="highlight">Developer</span><br/>
+          Creative<br />
+          <span className="highlight">Developer</span><br />
           & Designer
         </h1>
 
@@ -170,7 +170,7 @@ const Hero = () => {
           transition: 'transform 0.1s ease-out',
           position: 'relative'
         }}>
-          <img 
+          <img
             src={profilePic}
             alt="Nithyasree Profile"
             className="profile-img"
