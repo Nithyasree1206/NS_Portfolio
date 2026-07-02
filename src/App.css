@@ -1046,33 +1046,7 @@
   color: #d3d3ff;
 }
 
-.cert-image-wrap {
-  position: relative;
-  border-radius: 16px;
-  overflow: hidden;
-  margin-bottom: 1rem;
-  cursor: pointer;
-  border: 1px solid rgba(255, 255, 255, 0.08);
-}
 
-.cert-image {
-  width: 100%;
-  height: 180px;
-  object-fit: cover;
-  transition: transform 0.5s ease;
-}
-
-.cert-image-wrap:hover .cert-image {
-  transform: scale(1.08);
-}
-
-.cert-overlay {
-  opacity: 0;
-}
-
-.cert-image-wrap:hover .cert-overlay {
-  opacity: 1;
-}
 
 .achievement-card h4 {
   color: var(--accent-purple-light);
@@ -1729,18 +1703,21 @@ footer {
 
 /* ========= CERTIFICATE IMAGES ========= */
 .cert-image-wrap {
+  display: block;
+  min-height: 160px;
   position: relative;
-  border-radius: 10px;
+  border-radius: 12px;
   overflow: hidden;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
   cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .cert-image {
+  display: block;
   width: 100%;
-  height: 120px;
+  height: 160px;
   object-fit: cover;
-  border-radius: 10px;
   transition: transform 0.4s ease;
 }
 
@@ -1753,14 +1730,14 @@ footer {
   justify-content: center;
   opacity: 0;
   transition: opacity 0.3s ease;
-  border-radius: 10px;
   color: var(--text-primary);
-  font-size: 0.85rem;
+  font-size: 0.95rem;
   font-weight: 600;
+  letter-spacing: 0.5px;
 }
 
 .cert-image-wrap:hover .cert-image {
-  transform: scale(1.05);
+  transform: scale(1.08);
 }
 
 .cert-image-wrap:hover .cert-overlay {
